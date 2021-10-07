@@ -1,11 +1,11 @@
-#Comparison of classifier Algorithms on bank marketing Dataset
+#**Comparison of classifier Algorithms on bank marketing Dataset**
 
 Arwa AlBassam & Nouf Alsaeed
 
 **Abstract**
 
 
-     A bank institution located in Portuguese did a  marketing campaign, where the marketing campaigns is based on phone calls, and sometimes more than one contact to the same client is required, in order to access if the product (bank term deposit) would be (or not) subscribed, using the data provided by the bank we are going to build a classification model  to predict if the client will subscribe a term deposit with a comprehensive analysis with all data cleaning, exploration, visualization, feature selection, model building, and evaluation.
+ A bank institution located in Portuguese did a  marketing campaign, where the marketing campaigns is based on phone calls, and sometimes more than one contact to the same client is required, in order to access if the product (bank term deposit) would be (or not) subscribed, using the data provided by the bank we are going to build a classification model  to predict if the client will subscribe a term deposit with a comprehensive analysis with all data cleaning, exploration, visualization, feature selection, model building, and evaluation.
 
 
 
