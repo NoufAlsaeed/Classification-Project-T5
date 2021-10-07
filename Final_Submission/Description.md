@@ -1,5 +1,4 @@
-# ** Comparison of classifier Algorithms on bank marketing Dataset
- **
+#Comparison of classifier Algorithms on bank marketing Dataset
 
 Arwa AlBassam & Nouf Alsaeed
 
